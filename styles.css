@@ -1,0 +1,17 @@
+body {
+  background-color: rgb(83, 108, 89);
+}
+.block {
+  display: flex;
+  flex-direction: column;
+}
+.img {
+  width: 80%;
+  height: 100%;
+  margin: 0 auto;
+}
+.text {
+  font-family: "Montserrat", monospace;
+  text-align: center;
+  color: white;
+}
